@@ -13,7 +13,6 @@
     "prepack": "npm run build",
     "publish:beta": "npm publish --tag beta",
     "publish:latest": "npm publish",
-    "publish:check": "node publish.js",
     "version:patch": "npm version patch",
     "version:minor": "npm version minor",
     "version:major": "npm version major"
